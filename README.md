@@ -1,1 +1,1 @@
-Drupal 8 + AngularJS Implementation.# drupal_ng
+Drupal 8 + AngularJS Implementation.
