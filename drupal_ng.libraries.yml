@@ -1,0 +1,10 @@
+angularjs:
+  version: VERSION
+  js:
+    'https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js':  {type: external}
+    
+drupal_ng:
+  js:
+    js/drupal_ng.js: {}
+  dependencies:
+    - drupal_ng/angularjs
